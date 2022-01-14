@@ -1,0 +1,90 @@
+body {
+  font-family: 'Trebuchet MS';
+  text-align: center;
+  color: white;
+  background-color: black;
+  background-image: url("test.png");
+}
+.ideology {
+  padding-top: 30px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  padding-left: 70px;
+  border: 3px solid white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 200px;
+  margin-left: 200px;
+  background-color: black;
+}
+ .lib {
+  padding-top: 30px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  padding-left: 70px;
+  border: 3px solid white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 200px;
+  margin-left: 200px;
+  background-image: url("yellow.png");
+  background-repeat: no-repeat;
+  background-color: black;
+ }
+
+.con {
+  padding-top: 30px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  padding-left: 70px;
+  border: 3px solid white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 200px;
+  margin-left: 200px;
+  background-image: url("blue.png");
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+.soc {
+  padding-top: 30px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  padding-left: 70px;
+  border: 3px solid white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 200px;
+  margin-left: 200px;
+  background-image: url("red.png");
+  background-repeat: no-repeat;
+  background-color: black;
+  
+}
+
+.anarchy {
+  padding-top: 30px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  padding-left: 70px;
+  border: 3px solid white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 200px;
+  margin-left: 200px;
+  background-image: url("ana.png");
+  background-repeat: no-repeat;
+  background-size: 75px 75px;
+  background-color: black;
+}
+
+.links {
+  font-size: 20px;
+  color: black; 
+  padding: 15px; 
+  margin: 15px;
+  border-style: solid;
+  display: block-inline;
+}
+
